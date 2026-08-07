@@ -26,7 +26,7 @@ export default function UserProfileContent() {
   const router = useRouter();
 
   const [profile, setProfile] = useState({
-    name: 'Nikhil Dantam',
+    name: 'Mahesh Babu',
     rollNumber: '25211A0458',
     branch: 'Electronics & CommunicationEngineering',
     year: '2nd Year',
