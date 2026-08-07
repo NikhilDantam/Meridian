@@ -14,7 +14,7 @@ export default function StudentProfileHeader() {
         {/* Info */}
         <div className="flex-1 min-w-0">
           <div className="flex flex-wrap items-center gap-2 mb-1">
-            <h1 className="text-xl font-800 text-gray-900">Ravi Kumar</h1>
+            <h1 className="text-xl font-800 text-gray-900">Mahesh Babu</h1>
             <span className="text-xs font-600 px-2.5 py-1 bg-emerald-50 text-emerald-700 border border-emerald-100 rounded-full">Active Student</span>
           </div>
           <div className="flex flex-wrap gap-3 text-sm text-muted-foreground font-500">
