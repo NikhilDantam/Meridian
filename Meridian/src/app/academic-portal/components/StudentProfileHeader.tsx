@@ -20,11 +20,11 @@ export default function StudentProfileHeader() {
           <div className="flex flex-wrap gap-3 text-sm text-muted-foreground font-500">
             <span className="flex items-center gap-1">
               <Icon name="IdentificationIcon" size={14} className="text-amber-500" />
-              22A91A0501
+              25211A0458
             </span>
             <span className="flex items-center gap-1">
               <Icon name="ComputerDesktopIcon" size={14} className="text-amber-500" />
-              CSE — 3rd Year
+              CSE — 2rd Year
             </span>
             <span className="flex items-center gap-1">
               <Icon name="BuildingOfficeIcon" size={14} className="text-amber-500" />
