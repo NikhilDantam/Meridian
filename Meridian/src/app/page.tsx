@@ -1,6 +1,6 @@
 import AppLayout from '@/components/AppLayout';
 import HeroBanner from './components/HeroBanner';
-import OrchestratorChat from './components/OrchestratorChat';
+import OrchestratorChat from './components/OchestratorChat';
 import AgentGrid from './components/AgentGrid';
 import CampusStats from './components/CampusStats';
 import NotificationTicker from './components/NotificationTicker';
