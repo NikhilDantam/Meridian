@@ -1,6 +1,6 @@
 // src/app/layout.tsx
 import React from 'react';
-import '@/styles/globals.css'; // adjust path if your global CSS path differs
+import '@/styles/index.css';
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
