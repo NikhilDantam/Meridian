@@ -159,7 +159,7 @@ Meridian
               <span className="text-xs font-700 text-amber-700">RK</span>
             </div>
             <div className="min-w-0 flex-1">
-              <p className="text-xs font-600 text-foreground truncate">Ravi Kumar</p>
+              <p className="text-xs font-600 text-foreground truncate">Mahesh Babu</p>
               <p className="text-[11px] text-muted-foreground truncate">22A91A0501 · CSE</p>
             </div>
             <Icon name="Cog6ToothIcon" size={14} className="text-muted-foreground flex-shrink-0" />
