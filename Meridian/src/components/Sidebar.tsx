@@ -18,6 +18,8 @@ interface NavItem {
 const navItems: NavItem[] = [
   { id: 'nav-dashboard', label: 'Dashboard', href: '/', icon: 'HomeIcon', group: 'main' },
   { id: 'nav-academic', label: 'Academic Portal', href: '/academic-portal', icon: 'AcademicCapIcon', badge: 1, group: 'main' },
+  { id: 'nav-timetable', label: 'Class Timetable', href: '/timetable', icon: 'CalendarDaysIcon', group: 'main' },
+  { id: 'nav-eligibility', label: 'Eligibility Checker', href: '/eligibility-checker', icon: 'DocumentMagnifyingGlassIcon', group: 'main' },
   { id: 'nav-profile', label: 'My Profile', href: '/profile', icon: 'UserCircleIcon', group: 'main' },
   { id: 'nav-procurement', label: 'Procurement', href: '/agents/procurement', icon: 'ShoppingCartIcon', group: 'agents' },
   { id: 'nav-events', label: 'Events', href: '/agents/events', icon: 'CalendarDaysIcon', badge: 3, group: 'agents' },
@@ -33,6 +35,7 @@ const navItems: NavItem[] = [
   { id: 'nav-tests', label: 'Live Tests', href: '/live-tests', icon: 'ClockIcon', group: 'campus' },
   { id: 'nav-aptitude', label: 'Aptitude Prep', href: '/aptitude-prep', icon: 'AcademicCapIcon', group: 'campus' },
   { id: 'nav-canteen', label: 'Canteen & Hostel', href: '/canteen-hostel', icon: 'HomeIcon', group: 'campus' },
+  { id: 'nav-clubs', label: 'Clubs & Societies', href: '/clubs', icon: 'UserGroupIcon', group: 'campus' },
   { id: 'nav-sports', label: 'Games & Sports', href: '/sports', icon: TrophyIcon },
   { id: 'nav-freshers-guide', label: "Fresher's Guide", href: '/freshers-guide', icon: MapIcon }
 ];
